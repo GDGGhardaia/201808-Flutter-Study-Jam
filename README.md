@@ -7,7 +7,7 @@
 
 ## Body Mass Index ( BMI ) Mobile Application
 
-<p align="center"><img src="img/BMI.gif" width="300"></p>
+<p align="center"><img src="img/BMI.gif" width="350"></p>
 
 ### Description
 Mobile application to calculate the Body Mass Index BMI
