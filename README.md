@@ -1,13 +1,13 @@
 # Flutter Study Jam - Code Lab
 
-<center><img src="img/Flutter.jpeg"width="800%"></center>
+<p align="center"><img src="img/Flutter.jpeg"width="800%"></p>
 
 ----------
-<center><img src="img/GDG_Ghardaia.png"width="800%"></center>
+<p align="center"><img src="img/GDG_Ghardaia.png"width="800%"></p>
 
 ## Body Mass Index ( BMI ) Mobile Application
 
-<center><img src="img/BMI.gif" width="300"></center>
+<p align="center"><img src="img/BMI.gif" width="300"></p>
 
 ### Description
 Mobile application to calculate the Body Mass Index BMI
